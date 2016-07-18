@@ -1,0 +1,3 @@
+MultiThreadContinuableDownloadDemo
+###多线程断点下载
+使用HttpURLconnection访问网络
